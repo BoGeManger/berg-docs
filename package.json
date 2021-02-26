@@ -1,0 +1,16 @@
+{
+  "name": "berg-docs",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.0",
+    "@vuepress/plugin-google-analytics": "^1.8.0",
+    "vuepress": "^1.8.0",
+    "vuepress-plugin-baidu-tongji-analytics": "^1.0.2",
+    "vuepress-plugin-lastest-version": "^0.2.3"
+  }
+}
