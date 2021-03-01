@@ -1,6 +1,6 @@
 module.exports = {
     dest: "docs",
-    base: "/",
+    base: "/berg-docs/",
     markdown: {
         externalLinks: {
             target: "_blank",
